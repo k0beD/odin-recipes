@@ -1,2 +1,2 @@
 # odin-recipes
-Making an HTML site for the Odin Project practice
+# Making an HTML site for the Odin Project practice
